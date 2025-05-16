@@ -1,5 +1,9 @@
 My mocked readme
 
-This is the first paragraph with some mock text.
+```bash
+npm install
+```
 
-This is the second paragraph that will be replaced with a bash command.
+```bash
+npm install --save-dev [package-name]
+```
